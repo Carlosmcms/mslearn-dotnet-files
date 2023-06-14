@@ -252,3 +252,4 @@ File.AppendAllText($"salesTotalDir{Path.DirectorySeparatorChar}totals.txt", $"{d
 // totals.txt
 // 22385.32
 // 22385.32
+
